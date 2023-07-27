@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Norah Mueni
+I'm a passionate web developer with expertise in HTML, CSS, and JavaScript. I also love using Tailwind CSS to create beautiful and responsive user interfaces. Currently, I'm on an exciting journey of learning React to enhance my frontend development skills.
 
-<!--
-**Aliennori/Aliennori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 What I'm Working On
 
-Here are some ideas to get you started:
+- 🚀 Developing interactive and user-friendly web applications with React.
+- 🌱 Learning more about frontend development best practices and React ecosystem.
+- 💼 Building a portfolio website to showcase my projects and skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Let's connect and collaborate on exciting projects!
+
+
+
+  
+
+ 
